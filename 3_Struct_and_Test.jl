@@ -138,6 +138,7 @@ using Test
     end
 end
 
+
 @testset "grow_snake" begin
     snake = [CartesianIndex(2,2)]
     bound = (3,3)
